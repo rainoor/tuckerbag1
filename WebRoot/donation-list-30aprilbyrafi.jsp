@@ -65,13 +65,13 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
                                                 <!-- Tabs -->
 							<ul class="nav nav-tabs product-details-nav">
 								<li class="active">
-									<a href="#tab1" data-toggle="tab">Not Accepted</a>
+									<a href="#tab1" data-toggle="tab">Current</a>
 								</li>
 								<li>
 									<a href="#tab2" data-toggle="tab">Accepted</a>
 								</li>
                                                                 <li>
-									<a href="#tab3" data-toggle="tab">Going</a>
+									<a href="#tab3" data-toggle="tab">In process</a>
 								</li>
                                                                 <li>
 									<a href="#tab4" data-toggle="tab">Completed</a>
